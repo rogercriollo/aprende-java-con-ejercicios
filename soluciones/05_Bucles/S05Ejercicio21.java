@@ -7,8 +7,7 @@
  *    se incluye en el cómputo.
  * 
  * @author Luis José Sánchez
- */
-public class S05Ejercicio21 {
+S05Ejercicio21 {
 
   public static void main(String[] args) {
     
